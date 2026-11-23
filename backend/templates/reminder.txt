@@ -1,0 +1,8 @@
+Subject: A friendly reminder, {{name}}
+
+Hi {{name}},
+
+This is a friendly reminder about your upcoming appointment. Reply to this message if you need to make a change.
+
+Best,
+The Nudge demo team
